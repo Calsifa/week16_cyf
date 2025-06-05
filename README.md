@@ -1,10 +1,4 @@
-<<<<<<< HEAD
-=======
-以下是为您的 GitHub 仓库撰写的 README 文件，介绍您最近发表的论文《HeWY: A Hybrid Embedding Framework for Weakly-Supervised Video Moment Retrieval》，该论文已被 Multimedia Modeling 2025 接收：
 
----
-
->>>>>>> b9c2c4bcd910370f568157d1fec2b6a8eeb5a7c1
 # HeWY: A Hybrid Embedding Framework for Weakly-Supervised Video Moment Retrieval
 
 **HeWY** 是一种创新的混合嵌入框架，旨在提升弱监督视频片段检索（Weakly-Supervised Video Moment Retrieval, WS-VMR）的性能。该方法结合了多模态特征和上下文信息，有效地在无需精确标注的情况下实现了高效的视频片段定位。
